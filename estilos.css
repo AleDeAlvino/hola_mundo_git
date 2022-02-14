@@ -1,0 +1,38 @@
+*{margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+  }
+
+#contenedor{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+#ft_fondo{
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+#text_hola{
+    position: absolute;
+    font-family: 'Redressed', cursive;
+    font-size: 600%;
+    color: white;
+    left: 13%;
+    top: 15%;
+}
+
+#text_soy{
+    position: absolute;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 500%;
+    color: white;
+    left: 13%;
+    top: 25%;
+}
